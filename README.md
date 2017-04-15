@@ -1,4 +1,4 @@
-# DataBase-Project-3rd
+# Airline Reservation
 
 A system that allows the users to:
   - Login.
